@@ -76,7 +76,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: Text('Convert Money'),
+        title: Text('Money Convert'),
         backgroundColor: Colors.amber,
         centerTitle: true,
         actions: [
