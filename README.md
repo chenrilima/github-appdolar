@@ -1,16 +1,36 @@
-# app_finance
+# Aplicativo Conversor de Moedas
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/git-giphy/blob/master/LICENSE) 
 
-A new Flutter application.
 
-## Getting Started
+# Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O Giphy App é uma aplicação mobile construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
 
-A few resources to get you started if this is your first Flutter project:
+A aplicação consiste em uma pesquisa de gifs, utilizando a API do site **GIPHY Developers** (https://developers.giphy.com), onde as imagens são coletadas no app mobile, e são listados na tela, onde é possível compartilhar entre amigos.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Layout mobile
+
+Pesquisando -
+
+![pesquisando](https://user-images.githubusercontent.com/58492693/112397817-93322780-8ce1-11eb-8dad-f5f9b4d944e5.gif)
+
+
+Compartilhando -
+
+![compartilhando](https://user-images.githubusercontent.com/58492693/112397967-ea37fc80-8ce1-11eb-9cd2-7d580ade5099.gif)
+
+
+
+# Tecnologias utilizadas
+## Back end
+- Dart
+## Front end
+- Flutter
+
+# Autor
+
+Carlos Henrique Lima de Souza
+
+https://www.linkedin.com/in/carlos-henrique-b07192a7/
+
