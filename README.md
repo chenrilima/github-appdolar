@@ -1,5 +1,5 @@
 # Aplicativo Conversor de Moedas
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/git-giphy/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/github-appdolar/blob/master/LICENSE) 
 
 
 # Sobre o projeto
