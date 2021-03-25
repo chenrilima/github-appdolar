@@ -11,14 +11,14 @@ A aplicação consiste em uma pesquisa de gifs, utilizando a API do site **GIPHY
 
 ## Layout mobile
 
-Pesquisando -
 
-![pesquisando](https://user-images.githubusercontent.com/58492693/112397817-93322780-8ce1-11eb-8dad-f5f9b4d944e5.gif)
+![reais](https://user-images.githubusercontent.com/58492693/112436043-4a4f9280-8d24-11eb-9018-f27487a97d4a.gif)
 
 
-Compartilhando -
+![dólar](https://user-images.githubusercontent.com/58492693/112436111-5b989f00-8d24-11eb-99ec-307971204e8c.gif)
 
-![compartilhando](https://user-images.githubusercontent.com/58492693/112397967-ea37fc80-8ce1-11eb-9cd2-7d580ade5099.gif)
+
+![euro](https://user-images.githubusercontent.com/58492693/112436147-681cf780-8d24-11eb-9c1e-4ce111106e25.gif)
 
 
 
