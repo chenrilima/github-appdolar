@@ -4,9 +4,9 @@
 
 # Sobre o projeto
 
-O Giphy App é uma aplicação mobile construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
+O App de conversão de moedas, é uma aplicação mobile construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
 
-A aplicação consiste em uma pesquisa de gifs, utilizando a API do site **GIPHY Developers** (https://developers.giphy.com), onde as imagens são coletadas no app mobile, e são listados na tela, onde é possível compartilhar entre amigos.
+A aplicação consiste em converter o valor da moeda, utilizando a API do site **API HGBRASIL** (https://hgbrasil.com/status/finance), onde as informações são coletadas no app mobile, e são listados na tela, de acordo com o valor.
 
 
 ## Layout mobile
